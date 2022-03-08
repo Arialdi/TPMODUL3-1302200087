@@ -1,0 +1,15 @@
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\bin\Release\net6.0\tpmodul3_1302200087.exe
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\bin\Release\net6.0\tpmodul3_1302200087.deps.json
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\bin\Release\net6.0\tpmodul3_1302200087.runtimeconfig.json
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\bin\Release\net6.0\tpmodul3_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\bin\Release\net6.0\tpmodul3_1302200087.pdb
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.csproj.AssemblyReference.cache
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.AssemblyInfoInputs.cache
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.AssemblyInfo.cs
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\refint\tpmodul3_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.pdb
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\tpmodul3_1302200087.genruntimeconfig.cache
+C:\Users\AORUS\Documents\GitHub\TPMODUL3-1302200087\tpmodul3_1302200087\tpmodul3_1302200087\obj\Release\net6.0\ref\tpmodul3_1302200087.dll
